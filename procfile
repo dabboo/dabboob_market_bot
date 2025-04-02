@@ -1,1 +1,1 @@
-start: python spx_support_resistance_bot.py
+web: python spx_support_resistance_bot.py
